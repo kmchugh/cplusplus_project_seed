@@ -1,0 +1,6 @@
+app/build/
+lib/build/
+
+*.workspace
+*.sln
+Makefile
